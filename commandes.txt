@@ -1,0 +1,11 @@
+- Lancer le serveur
+php artisan serve
+
+- Créer un controlleur
+php artisan make:controller TwinController
+
+- Afficher la liste des routes
+php artisan route:list
+
+- Afficher toutes les commandes d'artisan
+php artisan
